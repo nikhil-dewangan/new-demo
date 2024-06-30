@@ -10,4 +10,11 @@ Advantages of Using JWT:
 Ping is a fundamental network administration command used to test and verify connectivity between devices on an Internet Protocol (IP) network.
 It’s like saying, “Hey, are you there?” and waiting for a response.
 The name “ping” comes from sonar technology, where pulses of sound are sent out and then echoed back.
+app.delete('/users/:id', (req, res) => {
+  const user = users.find(u => u.id === parseInt(req.params.id));
+  if (!user) return res.status(404).send('User not found');
+  const index = users.indexOf(user);
+  users.splice(index, 1);
+  res.json(user);
+});
 

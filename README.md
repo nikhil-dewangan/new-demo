@@ -10,5 +10,5 @@ Advantages of Using JWT:
 Ping is a fundamental network administration command used to test and verify connectivity between devices on an Internet Protocol (IP) network.
 It’s like saying, “Hey, are you there?” and waiting for a response.
 The name “ping” comes from sonar technology, where pulses of sound are sent out and then echoed back.
-
+computer network is collection of interconnected network and devices and that communicate each others.
 

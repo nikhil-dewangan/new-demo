@@ -11,7 +11,7 @@ Advantages of Using JWT:
 3. Compact: Because they are JSON-based, JWTs are compact and can be sent via URL, POST parameter, or inside an HTTP header.
 4. Self-contained: The token contains all the information needed for authentication, including user permissions and expiry information.
 
-Ping is a fundamental network administration command used to test and verify connectivity between devices on an Internet Protocol (IP) network.
+#Ping is a fundamental network administration command used to test and verify connectivity between devices on an Internet Protocol (IP) network.
 
 1. It’s like saying, “Hey, are you there?” and waiting for a response.
 2. The name “ping” comes from sonar technology, where pulses of sound are sent out and then echoed back.

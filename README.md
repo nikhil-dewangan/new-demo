@@ -18,3 +18,6 @@ Advantages of Using JWT:
 2. The name “ping” comes from sonar technology, where pulses of sound are sent out and then echoed back.
 3. computer network is collection of interconnected network and devices and that communicate each others.
 
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+

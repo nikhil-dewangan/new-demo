@@ -29,7 +29,13 @@ We also recommend to verify that the CDN you are using sets the Access-Control-A
   var REACT_ELEMENT_TYPE = Symbol.for('react.element');
   var REACT_PORTAL_TYPE = Symbol.for('react.portal');
   var REACT_FRAGMENT_TYPE = Symbol.for('react.fragment');
+var ReactSharedInternals = React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
 
+  var suppressWarning = false;
+  function setSuppressWarning(newSuppressWarning) {
+    {
+      suppressWarning = newSuppressWarning;
+    }
   
   var REACT_STRICT_MODE_TYPE = Symbol.for('react.strict_mode');
   var REACT_PROFILER_TYPE = Symbol.for('react.profiler');

@@ -36,6 +36,10 @@ We also recommend to verify that the CDN you are using sets the Access-Control-A
     {
       suppressWarning = newSuppressWarning;
     }
+
+    Objects are variables too. But objects can contain many values.
+
+ This code assigns many values (Fiat, 500, white) to an object named car:
   const car = {type:"Fiat", model:"500", color:"white"};
   var REACT_STRICT_MODE_TYPE = Symbol.for('react.strict_mode');
   var REACT_PROFILER_TYPE = Symbol.for('react.profiler');

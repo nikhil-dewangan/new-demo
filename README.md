@@ -24,7 +24,7 @@ Advantages of Using JWT:
 <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 
-We also recommend to verify that the CDN you are using sets the Access-Control-Allow-Origin: * HTTP header:
+# We also recommend to verify that the CDN you are using sets the Access-Control-Allow-Origin: * HTTP header:
 
   var REACT_ELEMENT_TYPE = Symbol.for('react.element');
   var REACT_PORTAL_TYPE = Symbol.for('react.portal');

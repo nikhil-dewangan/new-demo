@@ -28,8 +28,11 @@ Advantages of Using JWT:
 
   var REACT_ELEMENT_TYPE = Symbol.for('react.element');
   var REACT_PORTAL_TYPE = Symbol.for('react.portal');
-  var REACT_FRAGMENT_TYPE = Symbol.for('react.fragment');
-  var ReactSharedInternals = React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
+  
+  function sum(num1, num2){
+    return num1 + num2;
+  };
+  console.log(sum(2, 5));
 
   var suppressWarning = false;
   function setSuppressWarning(newSuppressWarning) {

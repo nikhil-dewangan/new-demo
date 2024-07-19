@@ -33,7 +33,8 @@ Advantages of Using JWT:
   case "yellow":
       console.log("please stop");
       break;
-    default :
+      
+   default :
       console.log("light is not worked");
       }
   

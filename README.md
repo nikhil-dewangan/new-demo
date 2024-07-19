@@ -29,9 +29,13 @@ Advantages of Using JWT:
   var REACT_ELEMENT_TYPE = Symbol.for('react.element');
   var REACT_PORTAL_TYPE = Symbol.for('react.portal');
 
+ }
   case "yellow":
       console.log("please stop");
       break;
+    default :
+      console.log("light is not worked");
+      }
   
   function sum(num1, num2){
     return num1 + num2;

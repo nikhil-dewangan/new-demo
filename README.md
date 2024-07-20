@@ -26,6 +26,8 @@ Advantages of Using JWT:
 
 # We also recommend to verify that the CDN you are using sets the Access-Control-Allow-Origin: * HTTP header:
 
+old strings are same after appling method it generate new string.
+
   var REACT_ELEMENT_TYPE = Symbol.for('react.element');
   var REACT_PORTAL_TYPE = Symbol.for('react.portal');
 

@@ -39,6 +39,7 @@ old strings are same after appling method it generate new string.
    default :
       console.log("light is not worked");
       }
+      mutable: a variable can change whole items so we can called  mutables. 
   
   function sum(num1, num2){
     return num1 + num2;

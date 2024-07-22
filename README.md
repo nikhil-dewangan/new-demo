@@ -47,7 +47,7 @@ old strings are same after appling method it generate new string.
     return num1 + num2;
   };
   console.log(sum(2, 5));
-
+Readme.md
   var suppressWarning = false;
   function setSuppressWarning(newSuppressWarning) {
     {

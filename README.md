@@ -32,7 +32,7 @@ old strings are same after appling method it generate new string.
   var REACT_PORTAL_TYPE = Symbol.for('react.portal');
 
  }
-
+git config --ls
  git -ls
   case "yellow":
       console.log("please stop");

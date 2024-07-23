@@ -1,8 +1,12 @@
 # new-demo
 This is demo for Git &amp; Github Class.
 git branch branch-name
-JSON: JSON stands for JavaScript Object Notation. It's a lightweight data format that's easy for humans to read and write and easy for machines to parse and generate.
+
+JSON: JSON stands for JavaScript Object Notation. It's a lightweight data format that's
+easy for humans to read and write and easy for machines to parse and generate.
+
 Advantages of Using JWT:
+
 1. Stateless: The server doesn't need to keep a session store as the JWT itself contains the user state.
 2. Scalable: Easier to scale across servers because no session information is stored on the server.
 3. Compact: Because they are JSON-based, JWTs are compact and can be sent via URL, POST parameter, or inside an HTTP header.
@@ -17,6 +21,4 @@ app.delete('/users/:id', (req, res) => {
   users.splice(index, 1);
   res.json(user);
 });
- 
-# MERN
-that means full stack web developer.
+

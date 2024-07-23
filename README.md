@@ -17,4 +17,6 @@ app.delete('/users/:id', (req, res) => {
   users.splice(index, 1);
   res.json(user);
 });
-
+ 
+# MERN
+that means full stack web developer.

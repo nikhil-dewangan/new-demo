@@ -11,9 +11,13 @@ Advantages of Using JWT:
 2. Scalable: Easier to scale across servers because no session information is stored on the server.
 3. Compact: Because they are JSON-based, JWTs are compact and can be sent via URL, POST parameter, or inside an HTTP header.
 4. Self-contained: The token contains all the information needed for authentication, including user permissions and expiry information.
+
 Ping is a fundamental network administration command used to test and verify connectivity between devices on an Internet Protocol (IP) network.
 It’s like saying, “Hey, are you there?” and waiting for a response.
 The name “ping” comes from sonar technology, where pulses of sound are sent out and then echoed back.
+
+git pull
+
 app.delete('/users/:id', (req, res) => {
   const user = users.find(u => u.id === parseInt(req.params.id));
   if (!user) return res.status(404).send('User not found');

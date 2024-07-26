@@ -18,7 +18,8 @@ The name “ping” comes from sonar technology, where pulses of sound are sent 
 
 git pull
 extratcting form data :we have method to stop redirect page link.():  
-
+symbol
+bigint
 app.delete('/users/:id', (req, res) => {
   const user = users.find(u => u.id === parseInt(req.params.id));
   if (!user) return res.status(404).send('User not found');

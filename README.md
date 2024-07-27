@@ -17,6 +17,7 @@ It’s like saying, “Hey, are you there?” and waiting for a response.
 The name “ping” comes from sonar technology, where pulses of sound are sent out and then echoed back.
 
 git pull
+symboll
 extratcting form data :we have method to stop redirect page link.():  
 symbol
 bigint

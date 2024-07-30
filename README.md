@@ -21,6 +21,7 @@ ctreate elements take three arguments.
 two types of start:
 development
 production
+jsx is javascript is stand for java script xml.
 
 git pull
 symboll

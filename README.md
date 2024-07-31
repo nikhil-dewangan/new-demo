@@ -22,6 +22,7 @@ two types of start:
 development
 production
 jsx is javascript is stand for java script xml.
+{title, console.log("nikhil")}
 
 git pull
 symboll

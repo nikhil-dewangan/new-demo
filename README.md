@@ -16,6 +16,8 @@ Ping is a fundamental network administration command used to test and verify con
 It’s like saying, “Hey, are you there?” and waiting for a response.
 The name “ping” comes from sonar technology, where pulses of sound are sent out and then echoed back.
 
+style ={styleCard}
+
 ctreate elements take three arguments.
 const HeadArr = ()=>(
 <p> lorem to win and how  are you doing and we use </p>

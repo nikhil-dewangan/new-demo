@@ -7,6 +7,16 @@ easy for humans to read and write and easy for machines to parse and generate.
 
 Advantages of Using JWT:
 
+const logo = () =>{
+return (
+<h2>
+   <img alt ="" src="" className = ""/>
+
+   
+</h2>
+)
+}
+
 1. Stateless: The server doesn't need to keep a session store as the JWT itself contains the user state.
 2. Scalable: Easier to scale across servers because no session information is stored on the server.
 3. Compact: Because they are JSON-based, JWTs are compact and can be sent via URL, POST parameter, or inside an HTTP header.

@@ -23,6 +23,10 @@ const HeadArr = ()=>(
 <p> lorem to win and how  are you doing and we use </p>
 </Title>
 <Title></Title>
+const RestaurentCard = ({resNmae, cusinss}) =>{
+<h3>{resName}</h3>
+<Restaurent res-add ="Bhilai"
+   cusins ="pizza, burger"/>
 
 )
 

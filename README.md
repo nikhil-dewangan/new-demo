@@ -12,7 +12,8 @@ return (
 <h2>
    <img alt ="" src="" className = ""/>
 
-   
+   ^ caret
+   ~ tilde
 </h2>
 )
 }

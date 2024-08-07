@@ -11,6 +11,7 @@ const logo = () =>{
 return (
 <h2>
    <img alt ="" src="" className = ""/>
+   <restaurentCard key ={index}  
 
    ^ caret
    ~ tilde

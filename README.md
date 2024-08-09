@@ -16,7 +16,7 @@ return (
    ^ caret
    ~ tilde
 </h2>
-)
+);
 }
 [Array join property is the most use full function for using , - _ these types of activity]
 

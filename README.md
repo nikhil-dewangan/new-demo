@@ -18,6 +18,7 @@ return (
 </h2>
 );
 }
+
 [Array join property is the most use full function for using , - _ these types of activity]
 
 1. Stateless: The server doesn't need to keep a session store as the JWT itself contains the user state.

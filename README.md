@@ -16,7 +16,7 @@ return (
    what is promises?
    closuers?
 
-
+stack is data storage.
  
    ^ caret
    ~ tilde

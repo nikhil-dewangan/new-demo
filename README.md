@@ -13,6 +13,7 @@ return (
    <img alt ="" src="" className = ""/>
    <restaurentCard key ={index}  
 
+
    what is promises?
    closuers?
 

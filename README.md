@@ -7,6 +7,7 @@ easy for humans to read and write and easy for machines to parse and generate.
 
 Advantages of Using JWT:
 
+
 const logo = () =>{
 return (
 <h2>

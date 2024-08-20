@@ -11,7 +11,7 @@ import{useState}from "react";
 
 const logo = () =>{
 return (
-<h2>
+ <h2>
    <img alt ="" src="" className = ""/>
    <restaurentCard key ={index} ; 
 import {useState} from "react";

@@ -14,7 +14,7 @@ const logo = () =>{
    <h2>
    <img alt ="" src="" className = ""/>
    <restaurentCard key ={index} ; 
-import {useState} from "react";
+   import {useState} from "react";
 
    what is promises?
    closuers?

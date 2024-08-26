@@ -10,8 +10,8 @@ Advantages of Using JWT:
 import{useState}from "react";
 
 const logo = () =>{
- return (
-  <h2>
+  return (
+   <h2>
    <img alt ="" src="" className = ""/>
    <restaurentCard key ={index} ; 
 import {useState} from "react";

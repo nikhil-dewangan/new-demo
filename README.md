@@ -9,7 +9,7 @@ Advantages of Using JWT:
 
 import{useState}from "react";
 
-axios
+axios()
 
 const logo = () =>{
   return (

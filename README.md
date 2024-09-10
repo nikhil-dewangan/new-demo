@@ -11,6 +11,7 @@ import{useState}from "react";
 git commit -m ""
 compress our file
 
+dev dependesice
 game()
 shiwft
 forin

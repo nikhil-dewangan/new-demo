@@ -11,6 +11,7 @@ import{useState}from "react";
 git commit -m ""
 
 compress our file
+root.render(<JsxHead />);
 
 dev dependesice
 game()

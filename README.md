@@ -11,6 +11,9 @@ import{useState}from "react";
 new state
 
 git commit -m ""
+.catch()=>{
+
+}
 
 compress our file
 root.render(<JsxHead />);

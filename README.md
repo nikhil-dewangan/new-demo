@@ -11,7 +11,8 @@ import{useState}from "react";
 new state
 git commit -m ""
 .catch()=>{
-
+window
+document <= node
 }
 
 compress our file

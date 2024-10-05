@@ -16,8 +16,10 @@ new state
 
 123456
 git commit -m ""
+
 .catch()=>{
 window
+
 document <= node
 }
 
@@ -26,6 +28,7 @@ root.render(<JsxHead />);
 
 dev dependesice
 game()
+
 shiwft
 forin
 

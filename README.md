@@ -9,7 +9,9 @@ select and change
 
 Advantages of Using JWT:
 
-new dev to
+connection types
+1. point to point
+2. multipoint 
 
 import{useState}from "react";()
 new state

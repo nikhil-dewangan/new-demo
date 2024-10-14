@@ -49,7 +49,7 @@ const logo = () =>{
   <img alt ="" src="" className = ""/>
   <restaurentCard key ={index} ; 
   import {useState} from "react";
-    )
+     )
   }
 
    what is promises?

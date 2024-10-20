@@ -54,7 +54,7 @@ const logo = () =>{
 
    what is promises?
    closuers?
-stack is data storage.
+   stack is data storage.
  
    ^ caret
    ~ tilde

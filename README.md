@@ -11,7 +11,8 @@ Advantages of Using JWT:
 
 connection types
 1. point to point
-2. multipoint 
+2. multipoint
+3. text.indexOf("Locate")
 
 import{useState}from "react";()
 new state

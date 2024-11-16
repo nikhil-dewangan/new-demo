@@ -17,7 +17,7 @@ connection types
 import{useState}from "react";()
 new state vscode editor
 
-123456
+123456 new tech map()
 git commit -m ""
 
 .catch()=>{

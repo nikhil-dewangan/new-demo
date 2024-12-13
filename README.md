@@ -13,6 +13,7 @@ connection types
 1. point to point
 2. multipoint
 3. text.indexOf("Locate")
+4. document.querySelctor("")
 
 import{useState}from "react";()
 new state vscode editor

@@ -14,6 +14,7 @@ connection types
 2. multipoint
 3. text.indexOf("Locate")
 4. document.querySelctor("")
+5. shift + f5
 
 import{useState}from "react";()
 new state vscode editor

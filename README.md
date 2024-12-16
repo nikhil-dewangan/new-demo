@@ -15,6 +15,7 @@ connection types
 3. text.indexOf("Locate")
 4. document.querySelctor("")
 5. shift + f5
+6. ctrl + alt up arrow
 
 import{useState}from "react";()
 new state vscode editor

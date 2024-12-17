@@ -10,6 +10,7 @@ select and change
 Advantages of Using JWT:
 
 1. Pre-Decrement
+2. Post-Decrement
 
 
 connection types

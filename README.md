@@ -13,7 +13,8 @@ Advantages of Using JWT:
 2. Post-Decrement
 
 
-connection types
+connection types:
+
 1. point to point
 2. multipoint
 3. text.indexOf("Locate")

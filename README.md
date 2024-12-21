@@ -44,7 +44,6 @@ shiwft
 forin
 
 simplex()
-
 half duplex()
 full duplex()
 

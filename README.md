@@ -12,7 +12,7 @@ Advantages of Using JWT:
 1. Pre-Decrement
 2. Post-Decrement
 
-commit -m 
+add commit -m 
 connection types:
 
 1. point to point

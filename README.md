@@ -28,6 +28,8 @@ new state vscode editor
 123456 new tech map()
 git commit -m ""
 
+Execution Context()=>{}
+
 .catch()=>{
 window
 

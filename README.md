@@ -34,7 +34,7 @@ Execution Context()=>{}
 window
 
 document <= node
-}
+{}
 
 compress our file
 root.render(<JsxHead />);

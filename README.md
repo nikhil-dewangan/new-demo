@@ -31,10 +31,8 @@ git commit -m ""
 Execution Context()=>{}
 
 .catch()=>{
-window
-
-document <= node
-{}
+window()
+document <= node {}
 
 compress our file
 root.render(<JsxHead />);

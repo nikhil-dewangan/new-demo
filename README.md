@@ -15,6 +15,7 @@ Advantages of Using JWT:
 1. add commit -m. 
 2. connection types:
 
+   Git Hub shorcut:=>
 1. point to point
 2. multipoint
 3. text.indexOf("Locate")

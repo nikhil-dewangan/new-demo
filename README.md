@@ -14,6 +14,7 @@ Advantages of Using JWT:
 
 1. add commit -m. 
 2. connection types:
+3. Analyze the system.
 
 ( new keyword )
 

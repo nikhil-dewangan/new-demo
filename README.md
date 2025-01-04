@@ -17,7 +17,7 @@ Advantages of Using JWT:
 3. Analyze the system.
 4. testing the program.
 
-( new keyword )
+falsy value : false,0,-0,Bigint,0n,"",null,undefined,nan
 
   => Git Hub shorcut:=>
 1. point to point

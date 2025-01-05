@@ -36,6 +36,7 @@ git commit -m ""
 
 Execution Context()=>{}
 console.log(jUser [name] )
+console.log( jUser.dob )
 
 .catch()=>{
 window()

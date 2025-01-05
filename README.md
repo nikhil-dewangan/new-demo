@@ -35,6 +35,7 @@ new state vscode editor
 git commit -m ""
 
 Execution Context()=>{}
+console.log(jUser [name] )
 
 .catch()=>{
 window()

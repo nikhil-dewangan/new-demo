@@ -29,7 +29,7 @@ trthy value : "0", "false", " ", [], {}, functionn(){}
 6. ctrl + alt up arrow
 
 #import{useState}from "react";()
-new state vscode editor
+
 
 123456 new tech map()
 git commit -m ""

@@ -20,6 +20,9 @@ Advantages of Using JWT:
 falsy value : false,0,-0,Bigint,0n,"",null,undefined,nan;
 trthy value : "0", "false", " ", [], {}, functionn(){}
 
+Here is two type of decalartion: 
+a. Implicit declaration.
+
   => Git Hub shorcut:=>
 1. point to point
 2. multipoint

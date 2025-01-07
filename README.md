@@ -22,6 +22,7 @@ trthy value : "0", "false", " ", [], {}, functionn(){}
 
 Here is two type of decalartion: 
 a. Implicit declaration.
+b. Explicit declaration.
 
   => Git Hub shorcut:=>
 1. point to point

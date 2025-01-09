@@ -24,6 +24,10 @@ Here is two type of decalartion:
 a. Implicit declaration.
 b. Explicit declaration.
 
+const navbar = ({companty)=>{
+
+}
+
   => Git Hub shorcut:=>
 1. point to point
 2. multipoint

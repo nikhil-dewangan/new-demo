@@ -28,6 +28,8 @@ const navbar = ({companty)=>{
 
 }
 
+navbar(comapny = "ngg");
+
   => Git Hub shorcut:=>
 1. point to point
 2. multipoint

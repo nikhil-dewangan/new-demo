@@ -26,7 +26,6 @@ a. Implicit declaration.
 b. Explicit declaration.
 
 const navbar = ({companty)=>{
-
 }
 
 navbar(comapny = "ngg");

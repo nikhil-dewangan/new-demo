@@ -28,7 +28,7 @@ b. Explicit declaration.
 const navbar = ({companty)=>{
 }
 
-Parcel,
+Parcel,Bundeler
 
 navbar(comapny = "ngg");
 

@@ -28,6 +28,8 @@ b. Explicit declaration.
 const navbar = ({companty)=>{
 }
 
+Parcel,
+
 navbar(comapny = "ngg");
 
   => Git Hub shorcut:=>

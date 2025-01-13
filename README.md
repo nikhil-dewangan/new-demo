@@ -28,7 +28,7 @@ b. Explicit declaration.
 const navbar = ({companty)=>{
 }
 
-Parcel,Bundeler
+Parcel,Bundeler,vite
 navbar(comapny = "ngg");
 
   => Git Hub shorcut:=>

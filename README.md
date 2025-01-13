@@ -29,7 +29,6 @@ const navbar = ({companty)=>{
 }
 
 Parcel,Bundeler
-
 navbar(comapny = "ngg");
 
   => Git Hub shorcut:=>

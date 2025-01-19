@@ -18,7 +18,6 @@ Advantages of Using JWT:
 4. testing the program.
 
 > falsy value : false,0,-0,Bigint,0n,"",null,undefined,nan;
-
 > trthy value : "0", "false", " ", [], {}, functionn(){}
 
 Here is two type of decalartion:

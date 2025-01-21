@@ -30,7 +30,9 @@ npm start
 }
 
 Parcel,Bundeler,vite
-navbar(comapny = "ngg");
+navbar(comapny = "ngg");{
+
+}
 
   => Git Hub shorcut:=>
 1. point to point

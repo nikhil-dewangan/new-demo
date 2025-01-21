@@ -26,7 +26,7 @@ a. Implicit declaration.
 b. Explicit declaration.
 
 const navbar = ({companty)=>{
-npm start
+ npm start
 }
 
 Parcel,Bundeler,vite

@@ -28,6 +28,7 @@ b. Explicit declaration.
 const navbar = ({companty)=>{
  npm start
  write your on story.
+ 
 }
 
 Parcel,Bundeler,vite

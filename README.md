@@ -23,7 +23,7 @@ Advantages of Using JWT:
 Here is two type of decalartion:   
 
 a. Implicit declaration.
-b. Explicit declaration.
+b. Explicit declaration.  
 
 const navbar = ({companty)=>{
  npm start

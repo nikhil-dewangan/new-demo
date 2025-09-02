@@ -6,7 +6,7 @@ JSON: JSON stands for JavaScript Object Notation. It's a lightweight data format
 easy for humans to read and write and easy for machines to parse and generate.              
                          
 select and changes()                                                 
-                                                                                
+                                                                                    
 Advantages of Using JWT:                                                                                                                         
                                                                                                                                   
 1. Pre-Decrement.                                                                                                                                        

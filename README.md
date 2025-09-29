@@ -7,7 +7,7 @@ easy for humans to read and write and easy for machines to parse and generate.
                              
 select and changes()                                                          
                                                                                             
-Advantages of Using JWT:                                                                                                                                                  
+Advantages of Using JWT:                                                                                                                                                     
                                                                                                                                                                   
 1. Pre-Decrement.                                                                                                                                                                                  
 2. Post-Decrement.                                                                                                                                                                  

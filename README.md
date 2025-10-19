@@ -9,7 +9,7 @@ select and changes()
                                                                                                                             
 Advantages of Using JWT:                                                                                                                                                               
                                                                                                                                                                                                
-1. Pre-Decrement.                                                                                                                                                                                                                                                
+1. Pre-Decrement.                                                                                                                                                                                                                                                   
 2. Post-Decrement.                                                                                                                                                                                            
    ( {props} )                                                                                                                                                                                            
 1. add commit -m.                                                                                                                                           

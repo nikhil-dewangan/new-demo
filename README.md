@@ -10,7 +10,7 @@ Advantages of Using JWT:
 1.   Pre-Decrement.                                                                                                                                                                                                 2.  Post-Decrement.                                                                                                                                                                                                        ( {props} )                                                                                                                                                                                                                                                                                                                                                  
 1. add commit -m.                                                                                                                                                                                                   
 2. connection types:                                                                                                                                                                              
-3. Analyze the system.                                                                             
+3. Analyze the system.                                                                                 
 4. testing the program.                        
      
 > falsy value : false,0,-0,Bigint,0n,"",null,undefined,nan;
